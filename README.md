@@ -1,2 +1,2 @@
-# Ola_Pessoal
+# Olá, Pessoal!
  Primeiro repositorio de Git e Github
